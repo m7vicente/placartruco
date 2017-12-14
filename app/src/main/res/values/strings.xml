@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlacarTruco</string>
+    <string name="placarEles"></string>
+    <string name="placarNos"></string>
+</resources>
